@@ -1491,4 +1491,4 @@ The default implementation of Kotlin property includes field and accessors (gett
 **Answer:**
 Though both may seem very similar they are in fact very different and serve very different purposes. Abstract classes are meant to serve the purpose of Generalizing behavior while interfaces are meant to serve the purpose of Standardizing behavior.
 
-**Source:** _paulfran.co/_
+
